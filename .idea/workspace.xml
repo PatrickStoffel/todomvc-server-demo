@@ -218,7 +218,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494873241056</updated>
-      <workItem from="1494873242571" duration="6109000" />
+      <workItem from="1494873242571" duration="6306000" />
     </task>
     <task id="LOCAL-00001" summary="first commit, create new repo">
       <created>1494874386032</created>
@@ -241,11 +241,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494876330254</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="remove node_modules directory from git">
+      <created>1494884922845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1494884922845</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6109000" />
+    <option name="totallyTimeSpent" value="6306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
