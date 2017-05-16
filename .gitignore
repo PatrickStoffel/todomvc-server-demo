@@ -58,7 +58,7 @@ typings/
 .env
 
 # Files aus IntelliJ und VSCode
-workspace.xml
+.idea/workspace.xml
 build/
 .idea
 .vscode
