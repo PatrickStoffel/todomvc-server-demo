@@ -60,6 +60,6 @@ typings/
 # Files aus IntelliJ und VSCode
 .idea/workspace.xml
 build/
-.idea
+.idea/
 .vscode
 data.json
