@@ -57,5 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
-# workspace.xml
+# Files aus IntelliJ und VSCode
 workspace.xml
+build/
+.idea
+.vscode
+data.json
