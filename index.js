@@ -12,7 +12,7 @@ app.use(cors())
 // respond with "hello world" when a GET request is made to the homepage
 app.get('/items', function (req, res) {
   let content = fs.readFileSync('data.json', 'utf8')
-  res.json(content)
+  res.json(JSON.parse(content))
 })
 
 app.post('/items', function (req, res) {
